@@ -1,6 +1,6 @@
 # RedGuy - A basic Commodore 64 game test
 
-I decided to try to program in C64 assembly at some point and here is the result.
+I decided to try to program in C64 assembly at some point in 2022 and here is the result.
 
 You can move around using a red figure called RedGuy. If you press a joystick button, you can perform an epilectic background color change.
 
